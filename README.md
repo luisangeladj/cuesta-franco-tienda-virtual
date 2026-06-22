@@ -1,4 +1,4 @@
-# Cuesta Franco - Tienda Virtual
+# Cuesta Franco - Tienda Virtual (Año: 2024)
 
 ## Desarrollado por
 Luis Angel
@@ -44,7 +44,7 @@ Tienda virtual de calzados desarrollado para e-commerce moderno, enfocada en pre
 ---
 
 ## 📅 Año de desarrollo
-2023
+2024
 
 ---
 
