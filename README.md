@@ -1,4 +1,4 @@
-🚀 2024 | Cuesta Franco - Tienda Virtual
+# 🚀 2024 | Cuesta Franco - Tienda Virtual
 
 ## 💻 Desarrollado por
 Luis Angel
@@ -6,13 +6,11 @@ Luis Angel
 ---
 
 ## 📌 Descripción del proyecto
-
-Tienda virtual de calzados desarrollado para e-commerce moderno, enfocada en presentación de productos y experiencia de usuario.
+Tienda virtual de calzados desarrollada para e-commerce moderno, enfocada en la presentación de productos y experiencia de usuario.
 
 ---
 
 ## ⚙️ Tecnologías utilizadas
-
 - WordPress
 - WooCommerce
 - PHP
@@ -23,36 +21,30 @@ Tienda virtual de calzados desarrollado para e-commerce moderno, enfocada en pre
 ---
 
 ## 🧩 Funcionalidades
-
 - Catálogo de productos
-- Diseño responsive
+- Diseño responsive (móvil, tablet, desktop)
 - Carrito de compras (estructura base)
 - Página de contacto
 - Integración de WhatsApp
-- Integración de métodos de pago (configurable)
+- Métodos de pago configurables
 - Optimización básica de rendimiento
 
 ---
 
 ## 📸 Evidencia visual
-
-- Capturas de la tienda
 - Página principal
-- Página de productos
+- Listado de productos
+- Página de producto
 - Checkout
 
 ---
 
-## 📅 Año de desarrollo
-2024
-
----
-
-## 📌 Estado del proyecto
-En Producción
+## 📅 Información del proyecto
+- Año de desarrollo: 2024  
+- Estado: En producción  
 
 ---
 
 ## 🚀 Nota
 Este proyecto es una muestra de desarrollo.  
-No incluye código fuente por motivos de privacidad y protección de clientes.
+No incluye código fuente por motivos de privacidad y protección del cliente.
