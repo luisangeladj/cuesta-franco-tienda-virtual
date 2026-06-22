@@ -1,6 +1,6 @@
 # Cuesta Franco - Tienda Virtual
 
-## 🧑‍💻 Desarrollado por
+## Desarrollado por
 Luis Angel
 
 ---
